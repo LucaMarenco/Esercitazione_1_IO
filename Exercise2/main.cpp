@@ -36,8 +36,7 @@ int main()
 		ofs.close();
 	}					
 	
-
-			
+	
     return 0;
 }
 
